@@ -1,0 +1,1 @@
+This repository contains 0x02. Flutter - Twitter clone: static part 1, tasks for Holberton School.
